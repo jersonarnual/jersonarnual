@@ -1,7 +1,7 @@
 ### Hola, soy Jerson 👋
 Soy un desarrollador web apasionado por tecnología
 
-- 🔭 Actualmente soy el cofundador en **CubeLab**, desarrollando aplicaciones web a la medida como tambien lidereando.
+- 🔭 Actualmente soy el cofundador en **CubeLab**
 - 🌱 Siempre aprendiendo nuevas tecnologías.
 
 ### 🛠 Tecnologías que domino:
