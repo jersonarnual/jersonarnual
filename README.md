@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola, soy Jerson 👋
+Soy un desarrollador web apasionado por tecnología
 
-<!--
-**jersonarnual/jersonarnual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente soy el cofundador en **CubeLab**, desarrollando aplicaciones web a la medida como tambien lidereando.
+- 🌱 Siempre aprendiendo nuevas tecnologías.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologías que domino:
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat-square&logo=oracle)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔗 Contáctame
+- [CubeLab](https://cubelabcolombia.com/)
+- [LinkedIn](https://www.linkedin.com/in/jerson-arnual-moreno-quevedo-5422781ab/)
+- 📧 Contacto: jerson8moreno@gmail.com
